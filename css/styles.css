@@ -1,0 +1,32 @@
+body {
+    background-color: white;
+    color: black;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.popular {
+    background-color: aliceblue;
+    text-shadow: 10px;
+    color: chocolate;
+}
+
+.tropical {
+    color: #f7325e;
+    font-family: fantasy;
+}
+
+p.tropical {
+    color: #7dc410;
+}
+
+img {
+    width: 260px;
+    height: 260px;
+}
+
+.intro {
+    text-align: center;
+    font-family: cursive;
+    color: darkgreen;
+}
